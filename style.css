@@ -95,11 +95,12 @@ p {
     header {
         margin-left: 25px;
         margin-top: 20px;
+        width: 95%;
     }
 
     header a {
         font-size: 13px;
-        margin-left: -3px;
+        margin-left: -5px;
     }
     main {
         display: contents;
@@ -126,11 +127,11 @@ p {
     }
     h1 {
         font-size: 60px;
-        margin-left: 50px;
+        margin: 0px 0px 0px 30px;
     }
     h2 {
-        font-size: 45px;
-        margin-left: 5px;
+        font-size: 2em;
+        margin: 0px 0px 0px 30px;
     }
     p {
         font-size: 1em;
