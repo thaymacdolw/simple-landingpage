@@ -38,6 +38,9 @@ header a {
     margin-left: 10px;
 }
 
+main {
+    display: flex;
+}
 img {
     width: 568px;
     height: 500px;
@@ -98,6 +101,10 @@ p {
         font-size: 13px;
         margin-left: -3px;
     }
+    main {
+        display: contents;
+        
+    }
     .login {
         width: 100px;
         height: 38px;
@@ -127,6 +134,7 @@ p {
     }
     p {
         font-size: 1em;
+        max-width: 90vw;
     }
     .explore {
         margin-bottom: 20px;
