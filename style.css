@@ -42,11 +42,9 @@ img {
     width: 568px;
     height: 500px;
     margin-left: 150px;
-    display: inline-block;
     
 }
 .content{
-    display: inline-block;
     margin-left: 150px;
     width: 515px;   
 }
